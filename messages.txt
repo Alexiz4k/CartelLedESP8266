@@ -1,4 +1,3 @@
-# Configuración global (primera línea NO comentada)
 START_HOUR=9
 END_HOUR=22
 BRIGHTNESS=5
